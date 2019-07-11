@@ -9,12 +9,13 @@ Start the game by running UsagiPuzzle.exe
 
 ## Controls
 
-Action______	Player 1	Player 2
-Move Left___	Left Arrow_	A
-Move Right__	Right Arrow	D
-Drop________	Down Arrow_	S
-Rotate Left_	W__________	I
-Rotate Right	X__________	O
+| Action       | Player 1    | Player 2 |
+|--------------|-------------|----------|
+| Move Left    | Left Arrow  | A        |
+| Move Right   | Right Arrow | D        |
+| Drop         | Down Arrow  | S        |
+| Rotate Left  | W           | I        |
+| Rotate Right | X           | O        |
 
 
 ## Built With
